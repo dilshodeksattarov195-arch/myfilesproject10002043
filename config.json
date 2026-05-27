@@ -1,0 +1,12 @@
+{
+    "meta": {
+        "module": "emailualculate",
+        "uuid": 931608,
+        "checksum": "pjsfql"
+    },
+    "settings": {
+        "retries": 1,
+        "enabled": false,
+        "mode": "production"
+    }
+}
